@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/Hex7Seg.sv" \
+"../../../../project_1.srcs/sources_1/new/IO.sv" \
+"../../../../project_1.srcs/sources_1/new/IO_top.sv" \
+"../../../../project_1.srcs/sources_1/new/adder.sv" \
+"../../../../project_1.srcs/sources_1/new/alu.sv" \
+"../../../../project_1.srcs/sources_1/new/aludec.sv" \
+"../../../../project_1.srcs/sources_1/new/controller.sv" \
+"../../../../project_1.srcs/sources_1/new/dMemory.sv" \
+"../../../../project_1.srcs/sources_1/new/dMemoryDecoder.sv" \
+"../../../../project_1.srcs/sources_1/new/datapath.sv" \
+"../../../../project_1.srcs/sources_1/new/flopr.sv" \
+"../../../../project_1.srcs/sources_1/new/iMemory.sv" \
+"../../../../project_1.srcs/sources_1/new/maindec.sv" \
+"../../../../project_1.srcs/sources_1/new/mips.sv" \
+"../../../../project_1.srcs/sources_1/new/mux2.sv" \
+"../../../../project_1.srcs/sources_1/new/mux7seg.sv" \
+"../../../../project_1.srcs/sources_1/new/regfile.sv" \
+"../../../../project_1.srcs/sources_1/new/signext.sv" \
+"../../../../project_1.srcs/sources_1/new/sl2.sv" \
+"../../../../project_1.srcs/sources_1/new/zeroext.sv" \
+"../../../../project_1.srcs/sim_1/new/IO_testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

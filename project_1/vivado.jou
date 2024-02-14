@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon May  1 16:01:36 2023
+# Process ID: 24184
+# Current directory: D:/Vivado Project/MIPS/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1476 D:\Vivado Project\MIPS\project_1\project_1.xpr
+# Log file: D:/Vivado Project/MIPS/project_1/vivado.log
+# Journal file: D:/Vivado Project/MIPS/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Vivado Project/MIPS/project_1/project_1.xpr}
+update_compile_order -fileset sources_1

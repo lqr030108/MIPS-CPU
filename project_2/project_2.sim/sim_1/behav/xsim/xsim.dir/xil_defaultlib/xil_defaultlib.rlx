@@ -1,0 +1,23 @@
+0.6
+2019.2
+Dec  5 2019
+05:06:03
+D:/Vivado Project/MIPS/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sim_1/new/testbench.sv,1683350727,systemVerilog,,,,testbench,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/Top.sv,1683332567,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/alu.sv,,Top,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/alu.sv,1682925300,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/aludec.sv,,alu,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/aludec.sv,1682866865,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/controller.sv,,aludec,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/controller.sv,1682868636,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/datapath.sv,,controller,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/datapath.sv,1682910765,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/flopenr.sv,,datapath,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/flopenr.sv,1682908830,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/maindec.sv,,flopenr,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/maindec.sv,1682928825,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mem.sv,,maindec,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mem.sv,1683350595,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mips.sv,,mem,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mips.sv,1682868829,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux2.sv,,mips,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux2.sv,1682856698,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux3.sv,,mux2,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux3.sv,1682859549,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux4.sv,,mux3,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/mux4.sv,1682858736,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/regfile.sv,,mux4,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/regfile.sv,1682856473,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/signext.sv,,regfile,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/signext.sv,1682468606,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/sl2.sv,,signext,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/sl2.sv,1682857977,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/smallreg.sv,,sl2,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/smallreg.sv,1682908829,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/zeroext.sv,,smallreg,,,,,,,,
+D:/Vivado Project/MIPS/project_2/project_2.srcs/sources_1/new/zeroext.sv,1682863255,systemVerilog,,D:/Vivado Project/MIPS/project_2/project_2.srcs/sim_1/new/testbench.sv,,zeroext,,,,,,,,

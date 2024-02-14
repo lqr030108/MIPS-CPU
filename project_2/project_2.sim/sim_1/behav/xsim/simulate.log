@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Simulation succeeded
+$stop called at time : 695 ns : File "D:/Vivado Project/MIPS/project_2/project_2.srcs/sim_1/new/testbench.sv" Line 33

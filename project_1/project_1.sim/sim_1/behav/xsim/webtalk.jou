@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri Apr 21 17:01:45 2023
+# Process ID: 20368
+# Current directory: D:/Vivado Project/MIPS/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Vivado Project/MIPS/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/MIPS_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Vivado Project/MIPS/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Vivado Project/MIPS/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Vivado -notrace

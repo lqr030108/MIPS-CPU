@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Sat May  6 08:18:43 2023
+# Process ID: 4548
+# Current directory: D:/Vivado Project/MIPS/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23996 D:\Vivado Project\MIPS\project_2\project_2.xpr
+# Log file: D:/Vivado Project/MIPS/project_2/vivado.log
+# Journal file: D:/Vivado Project/MIPS/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Vivado Project/MIPS/project_2/project_2.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench.tcl
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/testbench/dut/readdata}} 
+current_wave_config {Untitled 1}
+add_wave {{/testbench/dut/M1/dp/pc}} 
+current_wave_config {Untitled 1}
+add_wave {{/testbench/dut/M1/c/md/state}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/testbench/dut/M1/dp/instr}} 
+current_wave_config {Untitled 1}
+add_wave {{/testbench/memwrite}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/testbench/dut/M1/dp/rf/rf}} 
+relaunch_sim
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/readdata}} 
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/M1/c/md/state}} 
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/M1/dp/pc}} 
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/M1/dp/instr}} 
+relaunch_sim
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/M2/RAM}} 
+current_wave_config {Untitled 2}
+add_wave {{/testbench/dut/M1/dp/rf/rf}} 
+relaunch_sim
+close_sim

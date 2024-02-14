@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/Top.sv" \
+"../../../../project_2.srcs/sources_1/new/alu.sv" \
+"../../../../project_2.srcs/sources_1/new/aludec.sv" \
+"../../../../project_2.srcs/sources_1/new/controller.sv" \
+"../../../../project_2.srcs/sources_1/new/datapath.sv" \
+"../../../../project_2.srcs/sources_1/new/flopenr.sv" \
+"../../../../project_2.srcs/sources_1/new/maindec.sv" \
+"../../../../project_2.srcs/sources_1/new/mem.sv" \
+"../../../../project_2.srcs/sources_1/new/mips.sv" \
+"../../../../project_2.srcs/sources_1/new/mux2.sv" \
+"../../../../project_2.srcs/sources_1/new/mux3.sv" \
+"../../../../project_2.srcs/sources_1/new/mux4.sv" \
+"../../../../project_2.srcs/sources_1/new/regfile.sv" \
+"../../../../project_2.srcs/sources_1/new/signext.sv" \
+"../../../../project_2.srcs/sources_1/new/sl2.sv" \
+"../../../../project_2.srcs/sources_1/new/smallreg.sv" \
+"../../../../project_2.srcs/sources_1/new/zeroext.sv" \
+"../../../../project_2.srcs/sim_1/new/testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
